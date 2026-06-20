@@ -1,0 +1,1 @@
+# elastic_1D_imperfect
