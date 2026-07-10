@@ -45,6 +45,12 @@ At an imperfect interface, the traction is continuous and the displacement may e
 $$
 \left[\!\left[
 \sigma^{(\varepsilon)}
+\right]!\right]=0
+$$
+
+$$
+\left[\!\left[
+\sigma^{(\varepsilon)}
 \right]\!\right]=0,
 \qquad
 \sigma^{(\varepsilon)}
