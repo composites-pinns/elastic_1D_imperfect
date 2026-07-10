@@ -43,13 +43,17 @@ $$
 At an imperfect interface, the traction is continuous and the displacement may exhibit a jump:
 
 $$
-\left[\!\left[ \sigma^{(\varepsilon)} \right]\!\right]=0,
+\left[\!\left[
+\sigma^{(\varepsilon)}
+\right]\!\right]=0,
 \qquad
 \sigma^{(\varepsilon)}
 =
 \frac{\kappa}{\varepsilon}
 \left[\!\left[ u^{(\varepsilon)} \right]\!\right].
 $$
+
+
 
 Using the two-scale expansion
 
