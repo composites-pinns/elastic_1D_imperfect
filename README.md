@@ -53,8 +53,7 @@ $$
 \sigma^{(\varepsilon)}
 \right]\!\right]=0,
 \qquad
-\sigma^{(\varepsilon)}
-=
+\sigma^{(\varepsilon)}=
 \frac{\kappa}{\varepsilon}
 \left[\!\left[ u^{(\varepsilon)} \right]\!\right].
 $$
@@ -90,24 +89,19 @@ N_2(1)=0,
 $$
 
 $$
-E_1\left(1+N_1'(y_\Gamma)\right)
-=
-E_2\left(1+N_2'(y_\Gamma)\right),
+E_1\left(1+N_1'(y_\Gamma)\right)=E_2\left(1+N_2'(y_\Gamma)\right),
 $$
 
 and
 
 $$
-E_1\left(1+N_1'(y_\Gamma)\right)
-=
-\kappa\left[N_2(y_\Gamma)-N_1(y_\Gamma)\right].
+E_1\left(1+N_1'(y_\Gamma)\right)=\kappa\left[N_2(y_\Gamma)-N_1(y_\Gamma)\right].
 $$
 
 The homogenized Young's modulus is computed as
 
 $$
-E^*
-=\left \langle
+E^*=\left \langle
 E(y)\left(1+N'(y)\right)
 \right\rangle_Y.
 $$
@@ -115,9 +109,7 @@ $$
 For the two-phase one-dimensional cell, the analytical expression is
 
 $$
-E^*
-=
-\frac{\kappa E_1E_2}
+E^*=\frac{\kappa E_1E_2}
 {E_1E_2+\kappa\left[E_2y_\Gamma+E_1(1-y_\Gamma)\right]}.
 $$
 
