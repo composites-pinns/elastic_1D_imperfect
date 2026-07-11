@@ -107,8 +107,7 @@ The homogenized Young's modulus is computed as
 
 $$
 E^*
-=
-\left\langle
+=\left \langle
 E(y)\left(1+N'(y)\right)
 \right\rangle_Y.
 $$
@@ -209,22 +208,34 @@ Some file paths may need to be adapted before execution.
 The numerical results compare the PINN predictions with the analytical homogenization solution for the local fields, the effective elastic properties, and the reconstructed heterogeneous displacement.
 
 <p align="center">
-  <img src="figures/Figure3a.png" width="900" alt="Local solution and absolute error">
-</p>
-
-<p align="center"><em>Comparison of the analytical and PINN local solutions and their absolute error.</em></p>
-
-<p align="center">
   <img src="figures/Figure4.png" width="700" alt="Effective Young modulus comparison">
 </p>
 
-<p align="center"><em>Effective Young's modulus predicted by the PINN and obtained analytically.</em></p>
+<p align="center"><em>Effective Young's modulus predicted by the PINN and obtained analytically for a volumen fraction of 0.2.</em></p>
+
+<p align="center">
+  <img src="figures/Figure5.png" width="700" alt="Effective Young modulus comparison">
+</p>
+
+<p align="center"><em>Effective Young's modulus predicted by the PINN and obtained analytically or a volumen fraction of 0.5.</em></p>
+
+<p align="center">
+  <img src="figures/Figure6.png" width="700" alt="Effective Young modulus comparison">
+</p>
+
+<p align="center"><em>Effective Young's modulus predicted by the PINN and obtained analytically or a volumen fraction of 0.8.</em></p>
 
 <p align="center">
   <img src="figures/Figure7.png" width="950" alt="Reconstructed heterogeneous displacement">
 </p>
 
-<p align="center"><em>PINN-based and analytical reconstructions of the heterogeneous displacement field.</em></p>
+<p align="center"><em>PINN-based and analytical reconstructions of the heterogeneous displacement field for epsilon equal to 0.5 .</em></p>
+
+<p align="center">
+  <img src="figures/Figure8.png" width="950" alt="Reconstructed heterogeneous displacement">
+</p>
+
+<p align="center"><em>PINN-based and analytical reconstructions of the heterogeneous displacement field for epsilon equal to 0.25.</em></p>
 
 ## Citing
 
