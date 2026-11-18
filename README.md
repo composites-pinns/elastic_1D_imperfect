@@ -4,11 +4,11 @@
 ![PyTorch Version](https://img.shields.io/badge/pytorch-2.2.1-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-This repository contains the code accompanying the manuscript:
+This repository contains the code accompanying the following published article.
 
-> B. Mederos, Y. Espinosa-Almeyda, O. L. Cruz-González, R. Rodríguez-Ramos, and A. C. Alvarez (2026).  
-> *Physics-Informed Neural Networks for Predicting Homogenized Effective Properties of One-Dimensional Composites with Imperfect Interface*.  
-> Manuscript.
+> B. Mederos, Y. Espinosa-Almeyda, O. L. Cruz-González, R. Rodríguez-Ramos, and A. C. Alvarez (2026).\
+> Physics-informed neural networks for predicting homogenized effective properties of one-dimensional composites with imperfect interface.\
+> *Mathematics and Mechanics of Solids*. OnlineFirst, 8 October 2026. [DOI 10.1177/10812865261486846](https://doi.org/10.1177/10812865261486846).
 
 ## Overview
 
@@ -104,14 +104,17 @@ The numerical results compare the PINN predictions with the analytical homogeniz
 
 ## Citing
 
-If you use this code, please cite the associated manuscript:
+If you use this code, please cite the published article.
 
 ```bibtex
-@unpublished{mederos2026imperfectinterface,
-  title  = {Physics-Informed Neural Networks for Predicting Homogenized Effective Properties of One-Dimensional Composites with Imperfect Interface},
-  author = {Mederos, Boris and Espinosa-Almeyda, Yoanh and Cruz-Gonz{\'a}lez, Oscar L. and Rodr{\'i}guez-Ramos, Reinaldo and Alvarez, Amaury C.},
-  year   = {2026},
-  note   = {Manuscript}
+@article{mederos2026imperfectinterface,
+  title   = {Physics-informed neural networks for predicting homogenized effective properties of one-dimensional composites with imperfect interface},
+  author  = {Mederos, Boris and Espinosa-Almeyda, Yoanh and Cruz-Gonz{\'a}lez, Oscar L. and Rodr{\'i}guez-Ramos, Reinaldo and Alvarez, Amaury C.},
+  journal = {Mathematics and Mechanics of Solids},
+  year    = {2026},
+  month   = oct,
+  note    = {OnlineFirst, published online 8 October 2026},
+  doi     = {10.1177/10812865261486846}
 }
 ```
 
